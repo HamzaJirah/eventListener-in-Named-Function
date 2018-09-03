@@ -1,4 +1,5 @@
 const button = document.querySelector("#button");
+const paragraphText = document.getElementsByTagName("p")[0];
 
 
 button.addEventListener("click", clickButton);
