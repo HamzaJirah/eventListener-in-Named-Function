@@ -11,4 +11,4 @@ function clickButton(){
   paragraphText.innerText = "I am a named function from the click event"
 }
 
-clickButton();
+// clickButton();
