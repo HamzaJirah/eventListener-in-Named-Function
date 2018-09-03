@@ -1,3 +1,4 @@
+//select elements
 const button = document.querySelector("#button");
 const paragraphText = document.getElementsByTagName("p")[0];
 
