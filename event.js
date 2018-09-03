@@ -7,6 +7,7 @@ button.addEventListener("click", clickButton);
 
 //create function for the above named event listener
 function clickButton(){
+  //event to occur when button is clicked
   paragraphText.innerText = "I am a named function from the click event"
 }
 
